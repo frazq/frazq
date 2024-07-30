@@ -1,5 +1,5 @@
-### Hi there 👋, Mam na imię Dawid
-#### Jestem początkującym programistą pythona oraz fluttera
+## Hi there 👋, Mam na imię Dawid
+### Jestem początkującym programistą pythona oraz fluttera
 ![Jestem początkującym programistą pythona oraz fluttera](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
 
 Tworzę różne projekty by udoskonalać swoje umiejętności programistyczne w językach Python oraz Dart w Flutterze by stać się pełnoprawnym programistą sztucznej inteligencji oraz tworzenia aplikacji mobilnych! Jestem również po ukończeniu technikum informatycznego co pozwoliło mi nauczyć się HTML,CSS, JavaScript, PHP oraz SQL tak jak budowania stron na Wordpress żadne wyzwania nie są mi obce oraz z każdym dniem mojej nauki przełamuje własne bariery nie zamykając się na jednym języku a tylko poszerzaniu swoich kompetencji!

@@ -1,4 +1,4 @@
-## Hi there 👋, Mam na imię Dawid
+### Hi there 👋, Mam na imię Dawid
 ### Jestem początkującym programistą pythona oraz fluttera
 ![Jestem początkującym programistą pythona oraz fluttera](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
 

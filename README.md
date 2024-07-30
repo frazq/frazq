@@ -15,7 +15,5 @@ Skills: Python, JS, PHP, HTML, CSS, Dart, SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazq)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/frazq)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=frazq)  
 

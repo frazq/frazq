@@ -13,6 +13,8 @@ Skills: Python, JS, PHP, HTML, CSS, Dart, SQL
 # Social Media!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/frazq) <br> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CO.CI.DO.TEGO.TYPIE/)  
 
+#
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazq)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=frazq)  

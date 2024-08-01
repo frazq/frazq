@@ -9,7 +9,7 @@ I am a beginner programmer with a lot of ambition to someday quite on top and be
   
 
 
-  # <h2 align="center"> # 💻 TECH STACK </h2>
+  # <h2 align="center">  💻 TECH STACK </h2>
   <br/>
   <p align="center">
   <a href="https://skillicons.dev">

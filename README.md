@@ -18,5 +18,6 @@ Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frazq&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=frazq)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=frazq)  <br>
 
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/65ec86d3-d44e-4fde-b614-7721745e1e5e)

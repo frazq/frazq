@@ -3,11 +3,12 @@
 
 I am a beginner programmer with a lot of ambition to someday quite on top and become a senior Python Developer. I'm currently working on my own MakeLove app and trying to develop on my own in different languages at every turn!
 
-# 💻 TECH STACK
-Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
-
 - 🔭 I’m currently working on MakeLove 
-- 🌱 I’m currently learning Flutter and Python 
+- 🌱 I’m currently learning Flutter and Python <br>
+  #
+
+  # 💻 TECH STACK
+Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
 
 <br>
 

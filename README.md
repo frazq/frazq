@@ -7,7 +7,7 @@ I am a beginner programmer with a lot of ambition to someday quite on top and be
 - 🌱 I’m currently learning Flutter and Python <br>
   
   
-<br> 
+
 
   # <h2 align="center"> # 💻 TECH STACK </h2>
   <br/>

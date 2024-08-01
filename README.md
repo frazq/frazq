@@ -9,8 +9,13 @@ I am a beginner programmer with a lot of ambition to someday quite on top and be
   
 <br> 
 
-  # 💻 TECH STACK
-Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
+  # <h2 align="center"> # 💻 TECH STACK </h2>
+  <br/>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,php,sql,py,flutter,html,css,dart,vscode" />
+  </a>
+</p>
 
 <br>
 

@@ -9,8 +9,9 @@ Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
 - 🔭 I’m currently working on MakeLove 
 - 🌱 I’m currently learning Flutter and Python 
 
-<br><br>
+<br>
 ##
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazq)](https://github.com/anuraghazra/github-readme-stats)

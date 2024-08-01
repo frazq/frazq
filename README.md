@@ -10,7 +10,9 @@ Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
 - 🌱 I’m currently learning Flutter and Python 
 
 <br>
+
 ##
+
 <br>
 
 

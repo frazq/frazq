@@ -1,21 +1,23 @@
-### Hi there 👋, Mam na imię Dawid
-### Jestem początkującym programistą pythona oraz fluttera
-![Jestem początkującym programistą pythona oraz fluttera](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
+### Hi there 👋, my name is Dawid
+#### 💫 About Me:
+![💫 About Me:](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
 
-Tworzę różne projekty by udoskonalać swoje umiejętności programistyczne w językach Python oraz Dart w Flutterze by stać się pełnoprawnym programistą sztucznej inteligencji oraz tworzenia aplikacji mobilnych! Jestem również po ukończeniu technikum informatycznego co pozwoliło mi nauczyć się HTML,CSS, JavaScript, PHP oraz SQL tak jak budowania stron na Wordpress żadne wyzwania nie są mi obce oraz z każdym dniem mojej nauki przełamuje własne bariery nie zamykając się na jednym języku a tylko poszerzaniu swoich kompetencji!
+Jestem początkującym programistą mającym spore ambicje by kiedyś dość na szczyć i zostać senior Python Developerem. Aktualnie zajmuje się własną aplikacją MakeLove i samodzielnie staram sie na każdym kroju rozwijać w różnych językach!
 
-Skills: Python, JS, PHP, HTML, CSS, Dart, SQL
+# 💻 TECH STACK
+Skills:  JS / HTML / CSS / PHP / PYTHON / FLUTTER / SQL
 
-- 🔭 I’m currently working on  MakeLove 
-- 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for help with making my mobile app MakeLove 
+- 🔭 I’m currently working on MakeLove 
+- 🌱 I’m currently learning Flutter and Python 
 
-# Social Media!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/frazq) <br> [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CO.CI.DO.TEGO.TYPIE/)  
 
-#
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/frazq)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazq)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frazq&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=frazq)  
 

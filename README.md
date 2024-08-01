@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dawid
 ## 💫 About Me:
-![💫 About Me:](https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg)
+![💫 About Me:]
 
 Jestem początkującym programistą mającym spore ambicje by kiedyś dość na szczyć i zostać senior Python Developerem. Aktualnie zajmuje się własną aplikacją MakeLove i samodzielnie staram sie na każdym kroju rozwijać w różnych językach!
 

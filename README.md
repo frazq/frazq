@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Dawid
 ## 💫 About Me:
-![💫 About Me:]
 
 Jestem początkującym programistą mającym spore ambicje by kiedyś dość na szczyć i zostać senior Python Developerem. Aktualnie zajmuje się własną aplikacją MakeLove i samodzielnie staram sie na każdym kroju rozwijać w różnych językach!
 

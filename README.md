@@ -13,7 +13,7 @@ I am a beginner programmer with a lot of ambition to someday quite on top and be
   <br/>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,sql,py,flutter,html,css,dart,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,php,sqlite,py,flutter,html,css,dart,vscode" />
   </a>
 </p>
 

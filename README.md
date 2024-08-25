@@ -31,3 +31,4 @@ I am a beginner programmer with a lot of ambition to someday quite on top and be
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=frazq) 
 
 
+[![](https://visitcount.itsvg.in/api?id=frazq&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
